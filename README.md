@@ -16,9 +16,6 @@
 - 📫 Email: [gksbayram@gmail.com](gksbayram@gmail.com)  
   
 
-- ☎️ Phone: +90 534 520 9048  
-  
-
 <br/>  
 
 
