@@ -7,9 +7,6 @@
 -  💻 Currently working at [Appcent](https://appcent.mobi) remotely  
   
 
-- 🌱 Currently learning Clean Coding and SwiftUI  
-  
-
 - ❓ Ask me about iOS Development  
   
 
