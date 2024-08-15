@@ -4,7 +4,7 @@
 - 🌍 Living in Antalya/Turkey   
   
 
--  💻 Currently working at [Appcent](https://appcent.mobi) remotely  
+-  💻 Currently working at ****
   
 
 - ❓ Ask me about iOS Development  
